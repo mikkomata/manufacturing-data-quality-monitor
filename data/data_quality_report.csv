@@ -1,0 +1,6 @@
+check,issue_count
+Missing start time,1
+Missing end time,1
+Duplicate records,1
+End time before start time,1
+Negative quantity,1
