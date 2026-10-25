@@ -1,0 +1,4 @@
+production_line,batch_count,total_quantity,average_duration_minutes
+LINE-1,7,1330,48.57
+LINE-2,6,1260,48.33
+LINE-3,2,510,60.0
